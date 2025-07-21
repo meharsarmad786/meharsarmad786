@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm Sam, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Sam, a full-time full-stack developer 👨‍💻 working since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working as a Full-Stack Developer specializing in Ruby on Rails, Python, and React!  
