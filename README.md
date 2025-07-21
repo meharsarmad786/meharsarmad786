@@ -3,24 +3,17 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
 ### <div align="center">I'm Sam, a full-time full-stack developer 👨‍💻 working since 2020 🚀</div>  
-  
 
-- 🔭 I’m currently working as a Full-Stack Developer specializing in Ruby on Rails, Python, and React!  
-  
+- 🔭 I’m currently working as a **Full-Stack Developer** specializing in **Ruby on Rails**, **Python**, and **React**  
+- 🌱 I’m currently learning **Hyperledger** and **Kubernetes**  
+- ❓ Ask me anything about **Rails**, **MERN stack**, or **web architecture**  
+- 💡 Let’s connect and **build something amazing together!**  
+- ⚡ Fun fact: I proudly use **tabs over spaces** 😄  
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+<br/>
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
 
 
 ## My Skill Set  
