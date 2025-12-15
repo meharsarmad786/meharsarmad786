@@ -3,10 +3,6 @@
 <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
-
-### 🌐 Portfolio  
-👉 **[Click here to view my portfolio](https://its-sarmad.vercel.app/)**
-
   
 
 ### <div align="center">I'm Sam, a full-time full-stack developer 👨‍💻 working since 2020 🚀</div>  
@@ -27,7 +23,8 @@
 - 💡 Let’s connect and **build something amazing together!**  
 <br/>  
 
-
+### 🌐 Portfolio  
+👉 **[Click here to view my portfolio](https://its-sarmad.vercel.app/)**
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
