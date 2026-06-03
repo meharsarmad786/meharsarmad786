@@ -5,7 +5,7 @@
 </div>
   
 
-### <div align="center">I’m Sam, a full-time Full Stack Developer 👨‍💻 building scalable web apps, SaaS platforms, and automation systems. 🚀</div>  
+### <div align="center">A full-time Full Stack Developer 👨‍💻 building scalable web apps, SaaS platforms, and automation systems. 🚀</div>  
   
 
 - 🔭 I’m currently working as a **Full-Stack Developer** specializing in **Ruby on Rails**, **Python**, and **React** 
