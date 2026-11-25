@@ -5,10 +5,10 @@
 </div>
   
 
-### <div align="center">A full-time Full Stack Developer 👨‍💻 building scalable web apps, SaaS platforms, and automation systems. 🚀</div>  
+### <div align="center">Team Lead & Senior Software Engineer 👨‍💻 building scalable web apps, SaaS platforms, and automation systems. 🚀</div>  
   
 
-- 🔭 I’m currently working as a **Full-Stack Developer** specializing in **Ruby on Rails**, **Python**, and **React** 
+- 🔭 I’m currently a **Team Lead** at **Sideline Technologies**, working with **Ruby on Rails**, **Next.js**, **Shopify**, and **FastAPI** 
   
 
 - 🌱 I’m currently learning **Hyperledger** and **Kubernetes**   
@@ -102,7 +102,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/mehar-sarmad-saleem-56b245145" target="_blank">
+<a href="https://www.linkedin.com/in/mehar-sarmad-saleem/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/100008620274534" target="_blank">
@@ -123,8 +123,8 @@
 <br/>  
 
 
-![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svggh-light-mode-only)
+![](https://raw.githubusercontent.com/meharsarmad786/meharsarmad786/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/meharsarmad786/meharsarmad786/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 <p align="center">
